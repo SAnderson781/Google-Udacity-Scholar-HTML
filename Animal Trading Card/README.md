@@ -32,8 +32,6 @@ Feel free to customize your information and styles so long as you follow the abo
 
 **Custom Image and Text**
 
-The placeholder image and information is replaced with favorite animal image and information.
-
-The image is 300px wide or the image's width is set to 300px.
-
-The image’s alt is relevant to the animal used.
+- The placeholder image and information is replaced with favorite animal image and information.
+- The image is 300px wide or the image's width is set to 300px.
+- The image’s alt is relevant to the animal used.
