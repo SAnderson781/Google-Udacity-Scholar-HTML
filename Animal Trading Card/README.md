@@ -1,4 +1,4 @@
-**Animal Trading Card**
+## Animal Trading Card
 
 **Project Instructions**
 
